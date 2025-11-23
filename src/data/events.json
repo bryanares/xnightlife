@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "bandName": "The Neon Hearts",
+      "date": "2023-11-25",
+      "time": "21:00",
+      "genre": "Indie Rock",
+      "price": 15,
+      "image": "/assets/band1.jpg",
+      "description": "High energy indie rock covers and originals."
+    },
+    {
+      "id": 2,
+      "bandName": "Jazz Collective",
+      "date": "2023-11-30",
+      "time": "20:00",
+      "genre": "Jazz / Soul",
+      "price": 10,
+      "image": "/assets/band2.jpg",
+      "description": "Smooth jazz standards and soul classics."
+    },
+    {
+      "id": 3,
+      "bandName": "DJ Shadow",
+      "date": "2023-12-02",
+      "time": "22:00",
+      "genre": "House / Techno",
+      "price": 20,
+      "image": "/assets/dj1.jpg",
+      "description": "Deep house vibes until late."
+    }
+  ]
+}

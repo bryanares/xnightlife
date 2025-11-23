@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Pool Tables",
+      "description": "Professional slate tables available for hourly rental.",
+      "price": "15/hr",
+      "image": "/assets/pool.jpg",
+      "schedule": "Daily"
+    },
+    {
+      "id": 2,
+      "name": "Darts",
+      "description": "Electronic and steel tip boards.",
+      "price": "Free",
+      "image": "/assets/darts.jpg",
+      "schedule": "Daily"
+    },
+    {
+      "id": 3,
+      "name": "Poker Night",
+      "description": "Texas Hold'em tournament. Buy-in required.",
+      "price": "50 Buy-in",
+      "image": "/assets/poker.jpg",
+      "schedule": "Thursdays 19:00"
+    }
+  ]
+}
