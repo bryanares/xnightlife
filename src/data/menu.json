@@ -9,21 +9,21 @@
           "name": "Midnight Velvet",
           "description": "Blackberry infused gin, lemon, egg white, edible gold dust.",
           "price": 14,
-          "image": "/assets/cocktail1.jpg"
+          "image": "/public/midnight-velvet-menu.png"
         },
         {
           "id": 2,
           "name": "Smoked Old Fashioned",
           "description": "Bourbon, maple syrup, angostura bitters, hickory smoke.",
           "price": 16,
-          "image": "/assets/cocktail2.jpg"
+          "image": "/public/smoked-burbon-menu.png"
         },
         {
           "id": 3,
           "name": "Golden Hour",
           "description": "Vodka, passion fruit, vanilla, prosecco shot.",
           "price": 15,
-          "image": "/assets/cocktail3.jpg"
+          "image": "/public/golden-hour-menu.png"
         }
       ]
     },
@@ -36,21 +36,21 @@
           "name": "Truffle Fries",
           "description": "Crispy fries, truffle oil, parmesan, garlic aioli.",
           "price": 9,
-          "image": "/assets/food1.jpg"
+          "image": "/public/truffle-fries-menu.png"
         },
         {
           "id": 5,
           "name": "Wagyu Sliders",
           "description": "Two mini burgers, brioche bun, caramelized onions, gruyere.",
           "price": 18,
-          "image": "/assets/food2.jpg"
+          "image": "/public/wagyu-burger-menu.png"
         },
         {
           "id": 6,
           "name": "Spicy Tuna Tartare",
           "description": "Fresh tuna, avocado, sesame, wonton chips.",
           "price": 16,
-          "image": "/assets/food3.jpg"
+          "image": "/public/tuna-menu.png"
         }
       ]
     },
@@ -63,14 +63,14 @@
           "name": "Local IPA",
           "description": "Hoppy, citrus notes, 6.5% ABV.",
           "price": 8,
-          "image": "/assets/beer1.jpg"
+          "image": "/public/localipa-menu.png"
         },
         {
           "id": 8,
           "name": "Stout",
           "description": "Dark, coffee and chocolate notes, 5.0% ABV.",
           "price": 8,
-          "image": "/assets/beer2.jpg"
+          "image": "/public/stout-menu.png"
         }
       ]
     }
