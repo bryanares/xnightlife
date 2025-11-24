@@ -36,7 +36,7 @@ const EventCard = ({ event }) => {
       <div className="p-6 flex items-center justify-center border-t md:border-t-0 md:border-l border-gray-800 bg-black/20">
         <div className="text-center">
           <p className="text-gray-400 text-sm uppercase tracking-widest mb-1">Tickets</p>
-          <p className="text-3xl font-bold text-white mb-3">${event.price}</p>
+          <p className="text-3xl font-bold text-white mb-3">Ksh {event.price}</p>
           <button className="btn-primary text-xs py-2 px-4">
             Get Tickets
           </button>

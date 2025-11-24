@@ -21,7 +21,7 @@ const MenuCategory = ({ category }) => {
               <h3 className="text-xl font-bold text-white group-hover:text-accent transition-colors duration-300">
                 {item.name}
               </h3>
-              <span className="text-accent font-bold text-lg">${item.price}</span>
+              <span className="text-accent font-bold text-lg">Ksh {item.price}</span>
             </div>
             
             <p className="text-gray-400 text-sm leading-relaxed">
