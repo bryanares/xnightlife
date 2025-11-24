@@ -46,7 +46,7 @@ const Games = () => {
         <div className="mt-20 bg-accent text-black p-12 text-center">
           <h2 className="text-3xl font-bold uppercase tracking-widest mb-4">Weekly Poker Tournament</h2>
           <p className="text-lg mb-8 max-w-2xl mx-auto font-medium">
-            Join us every Thursday night for our Texas Hold'em tournament. Big prizes, professional dealers, and great vibes.
+            Join us every Thursday night for our Black Jack tournament. Big prizes, professional dealers, and great vibes.
           </p>
           <button className="bg-black text-white px-8 py-3 font-bold uppercase tracking-wider hover:bg-gray-900 transition-colors">
             Register Now

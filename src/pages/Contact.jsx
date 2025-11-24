@@ -33,7 +33,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-white font-bold uppercase tracking-wider mb-1">Location</h4>
-                  <p className="text-gray-400">123 Nightlife Blvd, Downtown District<br />Metropolis, NY 10012</p>
+                  <p className="text-gray-400">Mukuyu, Opposite Hotel Nokras<br />Murang'a, 10200</p>
                 </div>
               </div>
 
@@ -43,7 +43,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-white font-bold uppercase tracking-wider mb-1">Phone</h4>
-                  <p className="text-gray-400">+1 (555) 123-4567</p>
+                  <p className="text-gray-400">+254 (555) 123-4567</p>
                   <p className="text-gray-500 text-sm mt-1">Available 12pm - 10pm</p>
                 </div>
               </div>
@@ -109,7 +109,7 @@ const Contact = () => {
                     name="phone" 
                     required
                     className="w-full bg-black border border-gray-700 text-white px-4 py-3 focus:outline-none focus:border-accent transition-colors"
-                    placeholder="+1 (555) 000-0000"
+                    placeholder="+254 (555) 000-0000"
                   />
                 </div>
               </div>
