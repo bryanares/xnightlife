@@ -9,21 +9,21 @@
           "name": "Midnight Velvet",
           "description": "Blackberry infused gin, lemon, egg white, edible gold dust.",
           "price": 14,
-          "image": "/midnight-velvet-menu.png"
+          "image": "/midnight-velvet-menu.jpg"
         },
         {
           "id": 2,
           "name": "Smoked Old Fashioned",
           "description": "Bourbon, maple syrup, angostura bitters, hickory smoke.",
           "price": 16,
-          "image": "/smoked-burbon-menu.png"
+          "image": "/smoked-burbon-menu.jpg"
         },
         {
           "id": 3,
           "name": "Golden Hour",
           "description": "Vodka, passion fruit, vanilla, prosecco shot.",
           "price": 15,
-          "image": "/golden-hour-menu.png"
+          "image": "/golden-hour-menu.jpg"
         }
       ]
     },
@@ -36,21 +36,21 @@
           "name": "Truffle Fries",
           "description": "Crispy fries, truffle oil, parmesan, garlic aioli.",
           "price": 9,
-          "image": "/truffle-fries-menu.png"
+          "image": "/truffle-fries-menu.jpg"
         },
         {
           "id": 5,
           "name": "Wagyu Sliders",
           "description": "Two mini burgers, brioche bun, caramelized onions, gruyere.",
           "price": 18,
-          "image": "/wagyu-burger-menu.png"
+          "image": "/wagyu-burger-menu.jpg"
         },
         {
           "id": 6,
           "name": "Spicy Tuna Tartare",
           "description": "Fresh tuna, avocado, sesame, wonton chips.",
           "price": 16,
-          "image": "/tuna-menu.png"
+          "image": "/tuna-menu.jpg"
         }
       ]
     },
@@ -63,14 +63,14 @@
           "name": "Local IPA",
           "description": "Hoppy, citrus notes, 6.5% ABV.",
           "price": 8,
-          "image": "/localipa-menu.png"
+          "image": "/localipa-menu.jpg"
         },
         {
           "id": 8,
           "name": "Stout",
           "description": "Dark, coffee and chocolate notes, 5.0% ABV.",
           "price": 8,
-          "image": "/stout-menu.png"
+          "image": "/stout-menu.jpg"
         }
       ]
     }
