@@ -42,7 +42,6 @@ const Menu = () => {
           </div>
         </div>
       </div>
-
       {/* Menu Content */}
       <div className="max-w-7xl mx-auto px-4">
         {displayedCategories.map(category => (
